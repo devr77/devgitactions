@@ -1,1 +1,2 @@
 https://github.com/alialaa?tab=repositories
+https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/enabling-debug-logging
