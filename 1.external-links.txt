@@ -1,0 +1,27 @@
+
+002 Virtual-environments-for-GitHub-hosted-runners
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners
+
+002 Software-installed-on-GitHub-hosted-runners
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/software-installed-on-github-hosted-runners
+
+003 Prettier-VSCode-Extension
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+
+003 YAML-VSCode-Extention
+https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml
+
+003 YAML-to-JSON-VSCode-Extension
+https://marketplace.visualstudio.com/items?itemName=ahebrank.yaml2json
+
+004 Debugging-Logging
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/managing-a-workflow-run#enabling-debug-logging
+
+005 Shells-Table
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions#using-a-specific-shell
+
+006 hello-world-javascript-action
+https://github.com/actions/hello-world-javascript-action
+
+007 Actions-Marketplace
+https://github.com/marketplace?type=actions

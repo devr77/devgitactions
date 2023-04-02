@@ -1,0 +1,15 @@
+
+001 Events-that-trigger-workflows
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows
+
+002 crontab-guru
+https://crontab.guru/
+
+002 crontab-guru-examples
+https://crontab.guru/examples.html
+
+003 Create-a-repository-dispatch-event
+https://developer.github.com/v3/repos/#create-a-repository-dispatch-event
+
+004 Filter-Pattern-Cheat-Sheet
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions#filter-pattern-cheat-sheet

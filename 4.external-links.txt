@@ -1,0 +1,9 @@
+
+002 setup-node
+https://github.com/actions/setup-node
+
+006 Simple-NodeJS-API-Repo
+https://github.com/alialaa/simple-docker-nodejs-api
+
+010 technosophos-slack-notify
+https://hub.docker.com/r/technosophos/slack-notify/

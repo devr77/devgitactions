@@ -1,0 +1,39 @@
+
+001 create-react-app
+https://create-react-app.dev/
+
+003 Surge
+https://surge.sh/
+
+004 prettier
+https://prettier.io/
+
+006 CODEOWNERS-File
+https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
+
+007 npm-ci
+https://docs.npmjs.com/cli/ci.html
+
+009 Caching-Docs
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/caching-dependencies-to-speed-up-workflows
+
+009 actions-cache
+https://github.com/actions/cache
+
+012 Semantic-Versioning
+https://semver.org/
+
+012 Conventional-Commits
+https://www.conventionalcommits.org/en/v1.0.0/
+
+013 semantic-release
+https://github.com/semantic-release/semantic-release
+
+017 codecov
+https://codecov.io/
+
+019 commitlint
+https://github.com/conventional-changelog/commitlint
+
+019 commitizen
+https://github.com/commitizen/cz-cli

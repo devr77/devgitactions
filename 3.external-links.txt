@@ -1,0 +1,21 @@
+
+001 Default-Environment-Variables-Reference
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/using-environment-variables
+
+003 GITHUB-TOKEN-Docs
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/authenticating-with-the-github_token
+
+004 gpg
+https://www.gnupg.org/
+
+004 Docs-for-Secrets
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/creating-and-using-encrypted-secrets
+
+005 Docs-Refrence
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/contexts-and-expression-syntax-for-github-actions
+
+006 Available-Functions
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/contexts-and-expression-syntax-for-github-actions#functions
+
+007 Available-Job-Status-Functions
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/contexts-and-expression-syntax-for-github-actions#job-status-check-functions
